@@ -16,7 +16,7 @@ public class NumberOfDigitsIterative {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int input = scanner.nextInt();
-        int digigts = countDigits(input);
-        System.out.printf("Number of digits in the number %d id %d", input, digigts);
+        int digits = countDigits(input);
+        System.out.printf("Number of digits in the number %d id %d", input, digits);
     }
 }

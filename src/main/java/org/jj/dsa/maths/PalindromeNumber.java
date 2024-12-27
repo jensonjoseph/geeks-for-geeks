@@ -2,6 +2,11 @@ package org.jj.dsa.maths;
 
 import java.util.Scanner;
 
+/*
+A number is called a palindrome number when its reverse is same as the original digit.
+e.g 787
+ */
+
 public class PalindromeNumber {
 
     public static void main(String[] args) {

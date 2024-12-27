@@ -1,4 +1,4 @@
-package org.jj.dsa.delete;
+package org.jj.dsa.canbedeleted;
 
 import java.util.Scanner;
 
